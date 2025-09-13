@@ -54,8 +54,6 @@ The line chart compares **Accuracy** and **F1 Score** over three training epochs
 ### 🌟 Takeaway
 This project was a great exercise in understanding the inner workings of training loops, optimizing for hardware, and evaluating model performance—all while staying modular and scalable. Hugging Face’s ecosystem continues to impress with its flexibility and ease of use.
 
+---
 #NLP #MachineLearning #HuggingFace #Transformers #GoogleColab #Accelerate #BERT #AI #DeepLearning #Python #DataScience
 
----
-
-Would you like me to tailor this for a more technical audience or add visuals like charts or code snippets?
